@@ -24,5 +24,5 @@ I love coding.
 
 <a href="http://www.github.com/DipeshPun91"><img src="https://github-readme-stats.vercel.app/api?username=DipeshPun91&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DipeshPun91's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DipeshPun91&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/DipeshPun91)
+<a href="https://github.com/DipeshPun91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshPun91&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
