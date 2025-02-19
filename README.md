@@ -22,4 +22,4 @@ I love coding.
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipeshPun91)](https://github.com/DipeshPun91/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipeshPun91&show_icons=true)](https://github.com/DipeshPun91/github-readme-stats&show_icons=true&show_icons=true)
