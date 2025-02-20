@@ -26,7 +26,7 @@ I love coding.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DipeshPun91"><img src="https://github-readme-stats.vercel.app/api?username=DipeshPun91&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="DipeshPun91's GitHub stats" /></a>
+<a href="[http://www.github.com/DipeshPun91](https://github.com/DipeshPun91)"><img src="https://github-readme-stats.vercel.app/api?username=DipeshPun91&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="DipeshPun91's GitHub stats" /></a>
 
 <a href="http://www.github.com/DipeshPun91"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DipeshPun91&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
