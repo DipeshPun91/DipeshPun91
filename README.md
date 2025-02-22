@@ -24,7 +24,7 @@ I love coding.
 
 ### Badges
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=DipeshPun91-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <b>My GitHub Stats</b>
 
