@@ -24,7 +24,7 @@ I love coding.
 
 ### Badges
 
-https://github-profile-trophy.vercel.app/?username=DipeshPun91-ma&theme=algolia
+
 
 <b>My GitHub Stats</b>
 
