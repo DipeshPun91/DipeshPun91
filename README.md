@@ -22,9 +22,6 @@ I love coding.
 
 <p align="left"> <a href="https://www.github.com/DipeshPun91" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Bitwise-s3c" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DipeshPun91&theme=algolia)](https://github.com/DipeshPun91/github-profile-trophy)
 
 <b>My GitHub Stats</b>
 
@@ -33,3 +30,8 @@ I love coding.
 <a href="http://www.github.com/DipeshPun91"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DipeshPun91&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/DipeshPun91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshPun91&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Badges
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DipeshPun91&theme=algolia)](https://github.com/DipeshPun91/github-profile-trophy)
