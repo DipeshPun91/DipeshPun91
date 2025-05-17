@@ -8,7 +8,7 @@ I’m a results-driven Full Stack Developer with over 1 years of experience buil
 
 * 🌍  I'm based in Nepal.
 * ✉️  You can contact me at [pundipesh091@gmail.com](mailto:pundipesh091@gmail.com)
-* 🧠  I'm learning Next.js.
+* 🧠  I'm learning Next.js
 
 ### Skills
 
