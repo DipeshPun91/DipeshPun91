@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I’m a results-driven Full Stack Developer with over 1 years of experience building scalable web applications and delivering end-to-end solutions across industries. I specialize in modern JavaScript frameworks like React and Next.js, and backend systems using MongoDB.
-
 * 🌍  I'm based in Nepal.
 * ✉️  You can contact me at [pundipesh091@gmail.com](mailto:pundipesh091@gmail.com)
 * 🧠  I'm learning Next.js
