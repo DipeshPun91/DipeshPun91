@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Nepal.
+* 🌍  I'm based in Nepal
 * ✉️  You can contact me at [pundipesh091@gmail.com](mailto:pundipesh091@gmail.com)
 * 🧠  I'm learning MERN Stack.
 
