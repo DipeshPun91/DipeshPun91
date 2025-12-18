@@ -6,7 +6,7 @@ Full Stack Developer (React)
 
 * 🌍  I'm based in Nepal.
 * ✉️  You can contact me at [pundipesh091@gmail.com](mailto:pundipesh091@gmail.com)
-* 🧠  I'm learning NextJs
+* 🧠  I'm learning Next Js
 
 ### Skills
 
