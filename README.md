@@ -58,4 +58,3 @@ Frontend &amp; Full-Stack Developer building interactive, client-facing web prod
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/DipeshPun91">DipeshPun91</a></i></p>
