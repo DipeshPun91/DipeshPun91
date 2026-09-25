@@ -53,5 +53,9 @@ Frontend &amp; Full-Stack Developer building interactive, client-facing web prod
 
 ### 📈 Contribution Graph
 
-[![Dipesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DipeshPun91&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshPun91&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
